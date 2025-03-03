@@ -15,11 +15,11 @@
 <a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/CypherX-skyblue?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Dark-Xploit/CypherX/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Xploit/CypherX?&style=social"></a>
-<a href="https://github.com/Dark-Xploit/CypherX/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Dark-Xploit/CypherX?style=social"></a>
+<a href="https://github.com/Dark-Xploit/GensimmyX/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Xploit/CypherX?&style=social"></a>
+<a href="https://github.com/Dark-Xploit/GensimmyX/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Dark-Xploit/CypherX?style=social"></a>
 <a href="https://github.com/Dark-Xploit/CypherX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dark-Xploit/CypherX?label=Watching&style=social"></a>
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Dark-Xploit}/count.svg" alt="CypherX:: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Dark-Xploit}/count.svg" alt="GensimmyX:: Visitor's Count" /></p>
 
 
 ## `SETUP`
@@ -40,7 +40,7 @@
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Dark-Xploit/CypherX" target="_blank" style="margin-right: 10px;">
     <img alt="Deploy" src="https://www.herokucdn.com/deploy/button.svg"/>
   </a>
-  <a href="https://repl.it/github/Dark-Xploit/CypherX" target="_blank">
+  <a href="https://repl.it/github/Dark-Xploit/GensimmyX" target="_blank">
     <img alt="Deploy on Repl.it" src="https://repl.it/badge/github/quiec/whatsAlfa"/>
   </a>
 </p>
@@ -60,8 +60,8 @@
   
 ## `CLONE REPO & INSTALLATION DEPENDENCIES`
 ```bash
-git clone https://github.com/<your gitHub Username>/CypherX.git
-cd CypherX
+git clone https://github.com/<your gitHub Username>/Gensimmy.git
+cd Gensimmy
 npm start
 ```
 
@@ -76,8 +76,8 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
-git clone https://github.com/<your-gitHub-Username>/CypherX
-cd CypherX
+git clone https://github.com/<your-gitHub-Username>/GensimmyX
+cd Gensimmy
 npm install
 npm start
 ```
@@ -106,4 +106,4 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
 </h2>
 
-- This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
+- This bot is made for fun purposes `only` hence `DO NOT MISUSE`.
