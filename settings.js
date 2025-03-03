@@ -1,13 +1,13 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
-// @project_name : CypherX
-// @author : TYLOR
+// @project_name : gen simmy
+// @author : gen simmy
 // @youtube : https://www.youtube.com/@heyits_tylor
-// @instagram : heyits_tylor
-// @telegram : t.me/heyits_tylor
-// @github : Dark-Xploit
-// @tiktok : heyits_tylor
-// @whatsapp : +254754783972
+// @instagram : https://www.instagram.com/kiongossi?igsh=ZnB1NGQ4OHFqNHJ0
+// @telegram : t.me/eugenejohns.co.ke
+// @github :Gensimmy
+// @tiktok : kiongossJ
+// @whatsapp : +254114448525
 
 //----------------------[ CYPHER-X ]----------------------//
 
@@ -20,24 +20,24 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 global.SESSION_ID = process.env.SESSION_ID || '' 
 //Enter your Xploader session id here; must start with XPLOADER-BOT:~
-
+black-ice🔥
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'CypherX' 
+global.botname = process.env.BOT_NAME || 'black-ice' 
 
-//-----------------[ OWNER NUMBER ]------------------//
+//-----------------[ OWNER NUMBER ]----0114448525--------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '2547114448525' 
 
-//-----------------[ OWNER NAME ]------------------//
+//---gensimmy--------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'Gensimmy' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "Cypher" 
+global.packname = process.env.STICKER_PACK_NAME || "Gensimmy" 
 
-//--------------[ STICKER AUTHOR NAME ]------------//
+//-----gensimmy---------[ STICKER AUTHOR NAME ]------------//
 
 global.author = process.env.STICKER_AUTHOR_NAME || "X" 
 
@@ -56,17 +56,17 @@ global.dbToken = process.env.GITHUB_TOKEN || "";
 
 //-----------------[ CONTEXT LINK ]--------------------//
 
-global.plink = process.env.PLINK || "https://www.instagram.com/heyits_tylor?igsh=YzljYTk1ODg3Zg---"
+global.plink = process.env.PLINK || "https://www.instagram.com/kiongossi?igsh=ZnB1NGQ4OHFqNHJ0---"
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "©CypherX"
+global.wm = process.env.GL_WM || "©gensimmyX"
 
 //---------------------[ REPLIES ]-----------------------//
 
 global.mess = { 
   done: '*Done*', 
-  success: '©CypherX', 
+  success: '©gensimmyX', 
   owner: `*You don't have permission to use this command!*`, 
   group: '*This feature becomes available when you use it in a group!*', 
   admin: '*You’ll unlock this feature with me as an admin!*', 
@@ -88,4 +88,4 @@ fs.watchFile(file, () => {
   require(file)
 })
 
-//----------------------[ CYPHER-X ]----------------------//
+//----------------------[ gensimmy-X ]----------------------//
