@@ -12,7 +12,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/CypherX-skyblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/Gensimmy-skyblue?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Dark-Xploit/Gensimmy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Xploit/Gensimmy?&style=social"></a>
