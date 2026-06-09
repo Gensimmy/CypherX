@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
+<h1 align="center"> Black Fire 🔥 </h1>
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/CypherX">
